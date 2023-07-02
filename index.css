@@ -1,0 +1,30 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restaurant Menu</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    /* Custom CSS styles can be added here */
+    body {
+      background-color: #f2f2f2;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    .list-group-item {
+      background-color: #fff;
+      border: none;
+    }
+    
+    /* Add more custom styles as needed */
+  </style>
+</head>
+<body>
+  <!-- Rest of the HTML code -->
+</body>
+</html>
